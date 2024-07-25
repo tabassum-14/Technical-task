@@ -28,3 +28,6 @@ This is a Spring Boot project for managing social network posts. The application
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+
+### API Documentation link
+https://documenter.getpostman.com/view/31944449/2sA3kYheuf

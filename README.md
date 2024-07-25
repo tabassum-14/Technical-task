@@ -21,6 +21,9 @@ This is a Spring Boot project for managing social network posts. The application
 - Java 17
 - Maven 3.6.0 or higher
 
+### API Documentation link
+  https://documenter.getpostman.com/view/31944449/2sA3kYheuf
+
 ## Getting Started
 
 ### Clone the Repository
@@ -29,5 +32,4 @@ This is a Spring Boot project for managing social network posts. The application
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 
-### API Documentation link
-https://documenter.getpostman.com/view/31944449/2sA3kYheuf
+
